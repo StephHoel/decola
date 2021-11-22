@@ -1,4 +1,4 @@
-# decola
+# Decola Tech.
 Projeto Pessoal de Cadastro de Usuário feito através da linguagem c#
 # Site de instalação Visual Studio Community:
 https://visualstudio.microsoft.com/pt-br/vs/community/
